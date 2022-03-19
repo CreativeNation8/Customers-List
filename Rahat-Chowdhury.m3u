@@ -173,11 +173,11 @@ http://103.55.144.46/hls/colorscineplex.m3u8
 http://103.55.144.46/hls/utvaction.m3u8
 
 
-#EXTINF:-1 group-title="FCN-KIDS" tvg-logo="https://imgur.com/542VNXV.png",Nick
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imgur.com/542VNXV.png",Nick
 http://103.55.144.46/hls/nick.m3u8
-#EXTINF:-1 group-title="FCN-KIDS" tvg-logo="https://imgur.com/2tjaJND.png",CN
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imgur.com/2tjaJND.png",CN
 http://103.55.144.46/hls/cn.m3u8
-#EXTINF:-1 group-title="FCN-KIDS" tvg-logo="https://i.imgur.com/VKSpv5k.png",POGO SD
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/VKSpv5k.png",POGO SD
 http://103.55.144.46/hls/pogo.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iCOQK4B.png",Star Movies HD
