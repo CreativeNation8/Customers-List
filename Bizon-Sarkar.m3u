@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/live.jpg" group-title="Live Sports", Live Sports (Low)
+https://ib.qqkkqqk.com/live/ch_4.m3u8
+
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg",1.ROYAL TV[BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/ZHvSsqG.png",2.CAN BANGLA [BD]
