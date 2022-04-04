@@ -446,3 +446,46 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTINF:-1 group-title="Music(Backup)" tvg-logo="https://i.imgur.com/RPRT3Zq.png",Bol Hadippa
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
+
+
+
+
+
+*************Radio*******************
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="" group-title="CreativeIT Radio",Dhaka FM (90.4)
+http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jagoo FM" tvg-logo="" group-title="CreativeIT Radio",Jagoo FM
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="" group-title="CreativeIT Radio",Radio Foorti (88.0)
+http://119.148.23.88:1021/;?@IPTVSoltuion
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suno FM 102." tvg-logo="" group-title="CreativeIT Radio",Suno FM 102.
+http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
+
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1562081499.jpg" group-title="CreativeIT Radio", Quran Radio Lebanon - 32 kbit/s
+http://162.244.81.30:8224
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549691895.jpg" group-title="CreativeIT Radio", Quran Coran  - 64 kbit/s
+http://92.222.103.13:8005/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549691895.jpg" group-title="CreativeIT Radio", Shiekh Al Zain Quran Reciter - 128 kbit/s
+http://148.251.43.231:8118/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="CreativeIT Radio", Quran in English  - 128 kbit/s
+http://server2.quraan.us:9990
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="CreativeIT Radio", Quran Radio - 64 kbit/s
+http://62.210.106.9:8012
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="CreativeIT Radio", Quran Recitation by Abdul Rahman AlSudais - 64 kbit/s
+http://quraan.us:9850
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="CreativeIT Radio", Quran Recitation by Sheikh Saud AlShuraim - 64 kbit/s
+http://quraan.us:9848
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403838880.png" group-title="CreativeIT Radio", Quran Radio Tafsir - 128 kbit/s
+http://206.72.199.179:9992
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/119047.jpg" group-title="CreativeIT Radio", Islam2Day Radio, CH.1 [ Quran Recitations ] - 96 kbit/s
+http://islam2day.tv:3000
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="CreativeIT Radio", QuranYasser Aldosari  - 128 kbit/s
+http://quraan.us:9884
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550414038.jpg" group-title="CreativeIT Radio", - - 128 kbit/s
+http://stream.zenolive.com/cqkqta30974tv
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561693043.jpg" group-title="CreativeIT Radio", Bin othaimeen  - 128 kbit/s
+http://quraan.us:9890 
