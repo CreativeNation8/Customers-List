@@ -529,19 +529,6 @@ http://nvid101.cdnii.com/2021/1/20211611-720p.mp4
 https://ovhv47.twincdn.com/videos/23/23794/23794_720p.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD-BANGLA (Backup) ", BTV
-http://103.149.130.122:8089/84/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="LiveSports(Backup)(Backup)", GTV HD
-http://103.55.144.46/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="LiveSports(Backup)(Backup)", GTV HD
-http://103.149.130.122:8089/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="LiveSports(Backup)(Backup)",TSports(Backup) HD 
-http://103.55.144.46/hls/t-Sports(Backup).m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/qYlXive.png" group-title="LiveSports(Backup)(Backup)",TSports(Backup) HD 
-http://103.166.253.222/hls/t-Sports(Backup).m3u8
-
 #EXTINF:-1 group-title="BD Bangla(Backup)" tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.jpg",ROYAL TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD Bangla(Backup)" tvg-logo="https://imgur.com/ZHvSsqG.png",CAN BANGLA
@@ -602,7 +589,25 @@ http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Hindi Movie",Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KpXPkGd.png" group-title="Hindi 2", &TV HD
+http://208.86.19.13:81/703.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EXGKPmc.png" group-title="Hindi 2", HUM TV FHD
+http://208.86.19.13:81/611.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QD5t6Bn.png" group-title="Hindi 2", Star Bharat HD
+http://208.86.19.13:81/721.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg0.png" group-title="Hindi 2", UTV HD
+http://208.86.19.13:81/723.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi 2", SONY HD 
+http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJc3ZU3.png" group-title="Hindi 2", SONY SAB HD
+http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi 2", COLORS HD
+http://208.86.19.13:81/605.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="Hindi 2", ZEE TV HD
+http://208.86.19.13:81/606.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="Hindi 2", STAR PLUS
+http://208.86.19.13:81/607.stream/index.m3u8
 
 
 #EXTINF:-1 group-title="Music(Backup)" tvg-logo="https://i.imgur.com/3mkjuTk.png",9X Jalwa
